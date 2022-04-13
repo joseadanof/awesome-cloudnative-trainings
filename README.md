@@ -44,3 +44,44 @@ It started as a [post](https://joseadanof.medium.com/cloud-native-free-training-
 [Certification](https://learn.newrelic.com/full-stack-observability-exam)
 
 
+## Trainings
+
+**Traefik - Master Traefik with K3S**
+[Training](https://academy.traefik.io/courses/master-traefik-proxy-with-k3s)
+
+**Introduction to GitOps**
+[Training](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/?utm_source=lftraining&utm_medium=pressrelease&utm_campaign=lfs169)
+
+**Elastic Observability Fundamentals**
+[Training](https://www.elastic.co/training/observability-fundamentals)
+
+**Elastic Kibana Fundamentals**
+[Training](https://www.elastic.co/training/kibana-fundamentals)
+
+**Alibaba Cloud Native Technology Foundation**
+[Training](https://edu.alibabacloud.com/certification/university-cloudnative)
+
+**Introduction to Prometheus**
+[Training](https://training.promlabs.com/training/introduction-to-prometheus)
+
+**Sysdig Introduction to Prometheus and PromQL**
+[Training](https://learn.sysdig.com/introduction-to-prometheus-and-promql)
+
+**Introduction to Service Mesh with Linkerd**
+[Training](https://training.linuxfoundation.org/training/introduction-to-service-mesh-with-linkerd-lfs143/)
+
+**Introduction to Kubernetes on the Edge with k3s**
+[Training](https://training.linuxfoundation.org/training/introduction-to-kubernetes-on-edge-with-k3s-lfs156x/)
+
+**Introduction to Cloud Foundry and Cloud-Native Software Architecture**
+[Training](https://training.linuxfoundation.org/training/introduction-to-cloud-foundry-and-cloud-native-software-architecture/)
+
+**Certified Jenkins Engineer 2021**
+[Training](https://standard.cbu.cloudbees.com/series/exam-preparation-certified-jenkins-engineer-cje)
+
+[**Cassandra Database](https://auth.cloud.datastax.com/auth/realms/CloudUsers/protocol/saml/clients/absorb)**
+
+[**VMWare Kube Academy](https://kube.academy/courses)**
+
+[**Aqua Cloud Native Academy](https://www.aquasec.com/cloud-native-academy/devsecops/shift-left-devops/)**
+
