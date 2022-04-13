@@ -79,9 +79,9 @@ It started as a [post](https://joseadanof.medium.com/cloud-native-free-training-
 **Certified Jenkins Engineer 2021**
 [Training](https://standard.cbu.cloudbees.com/series/exam-preparation-certified-jenkins-engineer-cje)
 
-[**Cassandra Database](https://auth.cloud.datastax.com/auth/realms/CloudUsers/protocol/saml/clients/absorb)**
+[Cassandra Database](https://auth.cloud.datastax.com/auth/realms/CloudUsers/protocol/saml/clients/absorb)
 
-[**VMWare Kube Academy](https://kube.academy/courses)**
+[VMWare Kube Academy](https://kube.academy/courses)
 
-[**Aqua Cloud Native Academy](https://www.aquasec.com/cloud-native-academy/devsecops/shift-left-devops/)**
+[Aqua Cloud Native Academy](https://www.aquasec.com/cloud-native-academy/devsecops/shift-left-devops/)
 
