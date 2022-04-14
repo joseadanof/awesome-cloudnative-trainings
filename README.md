@@ -1,6 +1,6 @@
 # Awesome Cloud Native Trainings
 
-It started as a [post](https://joseadanof.medium.com/cloud-native-free-training-and-certifications-4c86851659f8) in Medium where I was collecting all the free trainings with and without certificates that were released for different companies supporting Cloud Native Computing Foundations Projects and Kubernetes.
+It started as a [post](https://joseadanof.medium.com/cloud-native-free-training-and-certifications-4c86851659f8) in Medium where I was collecting all the free trainings with and without certificates that were released for different companies supporting [Cloud Native Computing Foundation Projects] and Kubernetes(https://landscape.cncf.io/).
 
 ## Trainings with Certifications
 
