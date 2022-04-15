@@ -46,6 +46,14 @@ It started as a [post](https://joseadanof.medium.com/cloud-native-free-training-
 
 ## Trainings
 
+**Styra**
+OPA Policy Authoring
+[Training](https://academy.styra.com/courses/opa-rego)
+
+Microservice Authorization with Styra
+[Training](https://academy.styra.com/courses/take/microservice)
+
+
 **Traefik - Master Traefik with K3S**
 [Training](https://academy.traefik.io/courses/master-traefik-proxy-with-k3s)
 
