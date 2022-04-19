@@ -46,6 +46,9 @@
 ###### **FreeCodeCamp**
 * Kubernetes Cloud Native Associate Certification Course by ExamPro - [Video Course](https://youtu.be/AplluksKvzI)
 
+###### **Grafana University**
+* Observability Trainings - [Trainings](https://grafanalabs.learnondemand.net/Organization/CourseCatalog/5173?run=1#%7B%22pageIndex%22%3A0%2C%22pageSize%22%3A20%2C%22filter%22%3A%22%22%2C%22subscriptionProfileIds%22%3A%5B%5D%2C%22tagInputIds%22%3A%5B%5D%2C%22tagsJson%22%3Anull%2C%22bookmarks%22%3Anull%7D)
+
 ###### **Styra Academy**
 * Microservices Autxhorization with Styra - [Training](https://academy.styra.com/courses/microservice)
 * OPA Policy Authoring - [Training](https://academy.styra.com/courses/opa-rego)
