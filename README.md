@@ -2,7 +2,7 @@
 
 *It started as a [post](https://joseadanof.medium.com/cloud-native-free-training-and-certifications-4c86851659f8) in Medium where I was collecting all the free trainings with and without certificates that were released for different companies supporting Cloud Native Computing Foundations Projects and Kubernetes.*
 
-*Wether you are studying for a Kubernetes Certification or powering your career as DevOps Engineer / SRE, this set of trainings could prepare you well to face many Cloud Native applications challenges*
+*Wheter you are studying for a Kubernetes Certification or powering your career as DevOps Engineer / SRE, this set of trainings could prepare you well to face many Cloud Native applications challenges*
 
 ## Trainings with Certifications
 
@@ -48,13 +48,13 @@
 * OPA Policy Authoring - [Training](https://academy.styra.com/courses/opa-rego)
 
 ###### **Traefik Academy**
-* Master Traefik with K3S** - [Training](https://academy.traefik.io/courses/master-traefik-proxy-with-k3s)
+* Master Traefik with K3S - [Training](https://academy.traefik.io/courses/master-traefik-proxy-with-k3s)
 
 ###### **The Linux Foundation**
-* Introduction to GitOps** - [Training](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/?utm_source=lftraining&utm_medium=pressrelease&utm_campaign=lfs169)
+* Introduction to GitOps - [Training](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/?utm_source=lftraining&utm_medium=pressrelease&utm_campaign=lfs169)
 * Introduction to Service Mesh with Linkerd - [Training](https://training.linuxfoundation.org/training/introduction-to-service-mesh-with-linkerd-lfs143/)
-*Introduction to Kubernetes on the Edge with k3s - [Training](https://training.linuxfoundation.org/training/introduction-to-kubernetes-on-edge-with-k3s-lfs156x/)
-*Introduction to Cloud Foundry and Cloud-Native Software Architecture - [Training](https://training.linuxfoundation.org/training/introduction-to-cloud-foundry-and-cloud-native-software-architecture/)
+* Introduction to Kubernetes on the Edge with k3s - [Training](https://training.linuxfoundation.org/training/introduction-to-kubernetes-on-edge-with-k3s-lfs156x/)
+* Introduction to Cloud Foundry and Cloud-Native Software Architecture - [Training](https://training.linuxfoundation.org/training/introduction-to-cloud-foundry-and-cloud-native-software-architecture/)
 
 ###### **Elastic**
 * Observability Fundamentals - [Training](https://www.elastic.co/training/observability-fundamentals)
@@ -68,10 +68,10 @@
 
 ###### **Sysdig Training**
 * Falco 101 - [Training](https://learn.sysdig.com/falco-101)
-* Introduction to Prometheus and PromQL** - [Training](https://learn.sysdig.com/introduction-to-prometheus-and-promql)
+* Introduction to Prometheus and PromQL - [Training](https://learn.sysdig.com/introduction-to-prometheus-and-promql)
 
 ###### **Cloudbees**
-* Certified Jenkins Engineer 2021** - [Training](https://standard.cbu.cloudbees.com/series/exam-preparation-certified-jenkins-engineer-cje)
+* Certified Jenkins Engineer 2021 - [Training](https://standard.cbu.cloudbees.com/series/exam-preparation-certified-jenkins-engineer-cje)
 
 ###### **Datastax Academy**
 * Apache Cassandra Developer - [Training](https://academy.datastax.com/#/online-courses/ca2e1209-510b-44a6-97de-d5219d835319)
