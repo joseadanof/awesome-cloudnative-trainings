@@ -43,6 +43,9 @@
 
 ## Trainings
 
+###### **FreeCodeCamp**
+* Kubernetes Cloud Native Associate Certification Course by ExamPro - [Video Course](https://youtu.be/AplluksKvzI)
+
 ###### **Styra Academy**
 * Microservices Autxhorization with Styra - [Training](https://academy.styra.com/courses/microservice)
 * OPA Policy Authoring - [Training](https://academy.styra.com/courses/opa-rego)
