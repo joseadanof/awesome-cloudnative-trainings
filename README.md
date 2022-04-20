@@ -45,6 +45,8 @@
 
 ## Trainings
 
+###### **RedHat Developer**
+* Cloud Native Tutorials - [Trainings](https://redhat-scholars.github.io/cloudnative-tutorials/index.html)
 ###### **FreeCodeCamp**
 * Kubernetes Cloud Native Associate Certification Course by ExamPro - [Video Course](https://youtu.be/AplluksKvzI)
 
