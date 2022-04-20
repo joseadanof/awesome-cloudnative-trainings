@@ -6,6 +6,8 @@
 
 ## Trainings with Certifications
 
+###### **IBM**
+* Build Smart on Kubernetes - [Labs + Credly Badge](https://developer.ibm.com/videos/build-smart-on-kubernetes-get-your-badge/)
 ###### **Tetrate Academy**
 * Envoy Fundamentals - [Course + Certification](https://academy.tetrate.io/courses/envoy-fundamentals)
 
