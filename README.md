@@ -6,6 +6,9 @@
 
 ## Trainings with Certifications
 
+###### **Nirmata**
+* Kyverno Fundamentals - [Introduction Course](https://learn.nirmata.com/courses/introduction-to-kyverno) + [Certification](https://learn.nirmata.com/courses/kyverno-fundamentals-certification)
+
 ###### **IBM**
 * Build Smart on Kubernetes - [Labs + Credly Badge](https://developer.ibm.com/videos/build-smart-on-kubernetes-get-your-badge/)
 ###### **Tetrate Academy**
