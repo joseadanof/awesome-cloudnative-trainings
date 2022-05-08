@@ -6,6 +6,9 @@
 
 ## Trainings with Certifications
 
+###### **Ambassador Labs**
+* Summer of Kubernetes - [Labs + Challenges + Prizes](https://www.getambassador.io/summer-of-k8s/)
+
 ###### **Nirmata**
 * Kyverno Fundamentals - [Introduction Course](https://learn.nirmata.com/courses/introduction-to-kyverno) + [Certification](https://learn.nirmata.com/courses/kyverno-fundamentals-certification)
 
