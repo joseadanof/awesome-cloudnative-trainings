@@ -6,6 +6,9 @@
 
 ## Trainings with Certifications
 
+###### **Harness**
+* Harness Chaos Engineering Practitioner - [Course + Certificate](https://university.harness.io/path/harness-chaos-engineering-practitioner)
+
 ###### **Ambassador Labs**
 * Summer of Kubernetes - [Labs + Challenges + Prizes](https://www.getambassador.io/summer-of-k8s/)
 
