@@ -51,6 +51,9 @@
 
 ## Trainings
 
+###### **ControlPlane**
+* Kubernetes Labs - [Online Training](https://control-plane.io/training)
+
 ###### **RedHat Developer**
 * Cloud Native Tutorials - [Trainings](https://redhat-scholars.github.io/cloudnative-tutorials/index.html)
 ###### **FreeCodeCamp**
