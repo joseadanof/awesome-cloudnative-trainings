@@ -54,6 +54,9 @@
 
 ## Trainings
 
+##### **PromLabs**
+* Introduction to Prometheus - [Training](https://training.promlabs.com/training/introduction-to-prometheus/training-overview/introduction)
+
 ###### **ControlPlane**
 * Kubernetes Labs - [Online Training](https://control-plane.io/training)
 
