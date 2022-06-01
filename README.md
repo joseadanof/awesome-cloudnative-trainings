@@ -6,6 +6,9 @@
 
 ## Trainings with Certifications
 
+###### **IBM Coginitive Class**
+* Docker Essentials - [Course + Badge](https://cognitiveclass.ai/courses/docker-essentials)
+
 ###### **Harness**
 * Harness Chaos Engineering Practitioner - [Course + Certificate](https://university.harness.io/path/harness-chaos-engineering-practitioner)
 
