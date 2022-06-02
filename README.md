@@ -7,7 +7,7 @@
 ## Trainings with Certifications
 
 ###### **Cockroach Labs**
-* Introduction to Severless Databases and CockroachDB Serverless - [Course + Certificate](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-serverless+self-paced/course/)
+* Introduction to Serverless Databases and CockroachDB Serverless - [Course + Certificate](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-serverless+self-paced/course/)
 
 ###### **IBM Coginitive Class**
 * Docker Essentials - [Course + Badge](https://cognitiveclass.ai/courses/docker-essentials)
