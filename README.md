@@ -58,6 +58,9 @@
 
 ## Trainings
 
+##### **Practical DevSecOps**
+* Certified Cloud Native Security Expert - [Training](https://www.practical-devsecops.com/certified-cloud-native-security-expert)
+
 ##### **PromLabs**
 * Introduction to Prometheus - [Training](https://training.promlabs.com/training/introduction-to-prometheus/training-overview/introduction)
 
