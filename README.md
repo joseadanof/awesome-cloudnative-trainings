@@ -92,6 +92,12 @@
 * Observability Fundamentals - [Training](https://www.elastic.co/training/observability-fundamentals)
 * Kibana Fundamentals - [Training](https://www.elastic.co/training/kibana-fundamentals)
 
+###### **AWS**
+* AWS Cloud Practitioner Essentials - [Training](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
+* DevOps Engineer Learning Plan - [Learning Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/85/devops-engineer-learning-plan)
+* Containers Learning Plan (Multiple languages) - [Learning Plan]([https://explore.skillbuilder.aws/learn/public/learning_plan/view/1010/containers-learning-plan-spanish](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none?ctldoc-catalog-0=t-_%22learning_plan%22~se-%22Containers%20Learning%20Plan%22))
+* Developer Learning Plan (Multiple languages) - [Learning Plan](https://explore.skillbuilder.aws/learn/external-ecommerce;view=none?ctldoc-catalog-0=t-_%22learning_plan%22~se-%22developer%20learning%22)
+
 ###### **Alibaba**
 * Cloud Native Technology Foundations - [Training](https://edu.alibabacloud.com/certification/university-cloudnative)
 
