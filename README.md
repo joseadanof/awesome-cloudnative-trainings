@@ -2,7 +2,7 @@
 
 *It started as a [post](https://joseadanof.medium.com/cloud-native-free-training-and-certifications-4c86851659f8) in Medium where I was collecting all the free trainings with and without certificates that were released for different companies supporting Cloud Native Computing Foundations Projects and Kubernetes.*
 
-*Wheter you are studying for a Kubernetes Certification or powering your career as DevOps Engineer / SRE, this set of trainings could prepare you well to face many Cloud Native applications challenges*
+*Whether you are studying for a Kubernetes Certification or powering your career as DevOps Engineer / SRE, this set of trainings could prepare you well to face many Cloud Native applications challenges*
 
 ## Trainings with Certifications
 
