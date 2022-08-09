@@ -24,8 +24,11 @@
 
 ###### **IBM**
 * Build Smart on Kubernetes - [Labs + Credly Badge](https://developer.ibm.com/videos/build-smart-on-kubernetes-get-your-badge/)
+
 ###### **Tetrate Academy**
 * Envoy Fundamentals - [Course + Certification](https://academy.tetrate.io/courses/envoy-fundamentals)
+* Istio Fundamentals - [Course + Certification](https://academy.tetrate.io/courses/istio-fundamentals)
+* Certified Istio Administrator by Tetrate - [Certification](https://academy.tetrate.io/courses/certified-istio-administrator)
 
 ###### **Codefresh**
 * GitOps Fundamentals - [Course + Certification](https://codefresh.learnworlds.com/)
