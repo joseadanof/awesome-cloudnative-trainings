@@ -49,7 +49,7 @@
 ###### **Gremlim**
 * Chaos Engineering Practitioner Certificate Program - [Training](https://www.gremlin.com/webinars/gremlin-certificate-prep-session) | [Certification](https://gremlin.coassemble.com/unlock/7Jan8Su)
 
-###### **Gitla**
+###### **Gitlab**
 * Gitlab 101 Certification - [Training + Certification](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification)
 
 ###### **MongoDB**
