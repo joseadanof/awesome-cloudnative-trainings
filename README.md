@@ -4,7 +4,19 @@
 
 *Whether you are studying for a Kubernetes Certification or powering your career as DevOps Engineer / SRE, this set of trainings could prepare you well to face many Cloud Native applications challenges*
 
-## Trainings with Certifications
+## Free Trainings with Certifications
+
+###### **ScyllaDB**
+* ScyllaDB Courses with Certificates - [Courses + Completion Certificates](https://university.scylladb.com/)
+
+###### **Arango DB**
+* ArangoDB Certified Professional - [Certificate](https://www.arangodb.com/learn/certification/)
+
+###### **Redis Labs**
+* Redis Certified Developer - [Certificate](https://university.redis.com/certification/)
+
+###### **O11y Academy**
+* Practical Observability - [Course + Certificate](https://academy.o11y.io/courses/practical-observability)
 
 ###### **Cockroach Labs**
 * Introduction to Serverless Databases and CockroachDB Serverless - [Course + Certificate](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-serverless+self-paced/course/)
@@ -52,8 +64,8 @@
 ###### **Gremlim**
 * Chaos Engineering Practitioner Certificate Program - [Training](https://www.gremlin.com/webinars/gremlin-certificate-prep-session) | [Certification](https://gremlin.coassemble.com/unlock/7Jan8Su)
 
-###### **Gitlab**
-* Gitlab 101 Certification - [Training + Certification](https://gitlab.edcast.com/pathways/copy-of-gitlab-certification)
+###### **Gitlab Level Up**
+* Gitlab Level Up Training Platform - [Free Trainings and Certifications](https://levelup.gitlab.com/catalog)
 
 ###### **MongoDB**
 * MongoDB Basics - [Training + Certification](https://university.mongodb.com/courses/M001/about)
@@ -86,6 +98,7 @@
 * Master Traefik with K3S - [Training](https://academy.traefik.io/courses/master-traefik-proxy-with-k3s)
 
 ###### **The Linux Foundation**
+* Introduction to Istio - [Training](https://www.edx.org/course/introduction-to-istio)
 * Introduction to GitOps - [Training](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/?utm_source=lftraining&utm_medium=pressrelease&utm_campaign=lfs169)
 * Introduction to Service Mesh with Linkerd - [Training](https://training.linuxfoundation.org/training/introduction-to-service-mesh-with-linkerd-lfs143/)
 * Introduction to Kubernetes on the Edge with k3s - [Training](https://training.linuxfoundation.org/training/introduction-to-kubernetes-on-edge-with-k3s-lfs156x/)
