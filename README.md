@@ -21,7 +21,7 @@
 ###### **Cockroach Labs**
 * Introduction to Serverless Databases and CockroachDB Serverless - [Course + Certificate](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-serverless+self-paced/course/)
 
-###### **IBM Coginitive Class**
+###### **IBM Cognitive Class**
 * Docker Essentials - [Course + Badge](https://cognitiveclass.ai/courses/docker-essentials)
 * Building Cloud Native and Multi Cloud Applications - [Course + Certification](https://cognitiveclass.ai/courses/building_cloud_native_and_multicloud_applications)
 
@@ -75,9 +75,6 @@
 
 
 ## Trainings
-
-##### **PromLabs**
-* Introduction to Prometheus - [Training](https://training.promlabs.com/training/introduction-to-prometheus/training-overview/introduction)
 
 ###### **ControlPlane**
 * Kubernetes Labs - [Online Training](https://control-plane.io/training)
