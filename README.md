@@ -6,6 +6,9 @@
 
 ## Free Trainings with Certifications
 
+###### **Arrikto**
+* Introduction to Kubeflow - [Training + Certification](https://www.arrikto.com/kubeflow-pipelines-fundamentals-training-certification-registration/)
+
 ###### **ScyllaDB**
 * ScyllaDB Courses with Certificates - [Courses + Completion Certificates](https://university.scylladb.com/)
 
