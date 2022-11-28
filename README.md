@@ -57,7 +57,7 @@
 
 *Istio*
 * Get Started with Istio (with Fundamentals for Istio Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/get-started-with-istio)
-* Deploy Istio for Production (with Intermediate for Istio Certification) - [Hands on workshop lab + Quiz for credly badge](https://www.solo.io/events/upcoming/#workshops)
+* Deploy Istio for Production (with Intermediate for Istio Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/path/istio-certification-courses/deploy-istio-for-production)
 * Get Started with Istio Ambient Mesh (with Istio Ambient Mesh Foundation Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/get-started-with-istio-ambient-mesh-with-istio-ambient-mesh-foundation-certification)
 
 *Cilium*
