@@ -52,9 +52,25 @@
 * Kubernetes Badges (Apprentice, Defender , Helmsman, Contender, Protector, Surveyor, Architect, Rookie and Explorer) - [Labs + Badges](https://learning.kasten.io/)
 
 ###### **solo.io Academy**
-* Istio Foundation Certificate - [Workshop + Certification](https://www.solo.io/events/upcoming/#workshops)
-* Istio Essentials Certificate - [Workshop + Certificate](https://www.solo.io/events/upcoming/#workshops)
-* eBPF Fundamentals Certificate - [Workshop + Certificate](https://www.solo.io/events/upcoming/#workshops)
+
+####### *On-demand Workshops*
+
+######## Istio
+* Get Started with Istio (with Fundamentals for Istio Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/get-started-with-istio)
+* Deploy Istio for Production (with Intermediate for Istio Certification) - [Hands on workshop lab + Quiz for credly badge](https://www.solo.io/events/upcoming/#workshops)
+* Get Started with Istio Ambient Mesh (with Istio Ambient Mesh Foundation Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/get-started-with-istio-ambient-mesh-with-istio-ambient-mesh-foundation-certification)
+
+######## Cilium
+* Introduction to Cilium (with Fundamentals for Cilium Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/introduction-to-cilium-with-fundamentals-for-cilium-certification)
+
+######## Envoy
+* Get Started with Envoy Proxy (with Fundamentals for Envoy Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/get-started-with-envoy-proxy-with-fundamentals-for-envoy-certification)
+
+######## eBPF
+* Get Started with eBPF (with Fundamentals for eBPF Certification) - [Hands on workshop lab + Quiz for credly badge](https://academy.solo.io/get-started-with-ebpf-with-fundamentals-for-ebpf-certification)
+
+####### *Upcoming Events*
+[Conferences - Live Streams - Webinars - Instructor led workshops](https://www.solo.io/events/upcoming/#workshops)
 
 ###### **Tigera - Calico Certification**
 * Certified Calico Operator: Level 1 (Kubernetes Networking and Security) - [Training + Certification](https://academy.tigera.io/course/certified-calico-operator-level-1/)
