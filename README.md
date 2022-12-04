@@ -22,7 +22,8 @@
 * Practical Observability - [Course + Certificate](https://academy.o11y.io/courses/practical-observability)
 
 ###### **Cockroach Labs**
-* Introduction to Serverless Databases and CockroachDB Serverless - [Course + Certificate](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-serverless+self-paced/course/)
+* Introduction to Distrbuited SQL and CockroachDB  - [Course + Certificate](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-distributed-sql-and-cockroachdb+self-paced/about)
+* Practical First Steps with CockroachDB  - [Course + Certificate](https://university.cockroachlabs.com/courses/course-v1:crl+practical-first-steps-with-crdb+self-paced/about)
 
 ###### **IBM Cognitive Class**
 * Docker Essentials - [Course + Badge](https://cognitiveclass.ai/courses/docker-essentials)
