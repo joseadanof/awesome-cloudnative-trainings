@@ -15,7 +15,16 @@
 ###### **Arango DB**
 * ArangoDB Certified Professional - [Certificate](https://www.arangodb.com/learn/certification/)
 
-###### **Redis Labs**
+###### **Redis (Redis University)**
+* Introduction to Redis Data Structures - [Certificate](https://university.redis.com/courses/ru101/)
+* Redis for Java Developers - [Certificate](https://university.redis.com/courses/ru102j/)
+* Redis for JavaScript Developers - [Certificate](https://university.redis.com/courses/ru102js/)
+* Redis for Python Developers - [Certificate](https://university.redis.com/courses/ru102py/)
+* Redis for .NET Developers - [Certificate](https://university.redis.com/courses/ru102n/)
+* Redis: Querying, Indexing and Full-Text Search - [Certificate](https://university.redis.com/courses/ru203/)
+* Redis: Storing, Indexing and Querying JSON at Speed - [Certificate](https://university.redis.com/courses/ru204/)
+* Running Redis at Scale - [Certificate](https://university.redis.com/courses/ru301/)
+* Redis Security - [Certificate](https://university.redis.com/courses/ru330/)
 * Redis Certified Developer - [Certificate](https://university.redis.com/certification/)
 
 ###### **O11y Academy**
