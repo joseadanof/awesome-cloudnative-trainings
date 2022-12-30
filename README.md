@@ -6,6 +6,12 @@
 
 ## Free Trainings with Certifications
 
+###### **Isovalent**
+* Getting Started with Cilium - [Labs + Badge](https://isovalent.com/labs/getting-started-with-cilium/)
+* Cilium Cluster Mesh - [Labs + Badge](https://isovalent.com/labs/cilium-cluster-mesh/)
+* Cilium Service Mesh - [Labs + Badge](https://isovalent.com/labs/cilium-service-mesh/)
+* Isovalent Cilium Enterprise: Network Policies - [Labs + Badge](https://isovalent.com/labs/isovalent-cilium-enterprise-network-policies/)
+
 ###### **Arrikto**
 * Introduction to Kubeflow - [Training + Certification](https://www.arrikto.com/kubeflow-pipelines-fundamentals-training-certification-registration/)
 
