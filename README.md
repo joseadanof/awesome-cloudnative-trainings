@@ -11,6 +11,7 @@
 * Cilium Cluster Mesh - [Labs + Badge](https://isovalent.com/labs/cilium-cluster-mesh/)
 * Cilium Service Mesh - [Labs + Badge](https://isovalent.com/labs/cilium-service-mesh/)
 * Isovalent Cilium Enterprise: Network Policies - [Labs + Badge](https://isovalent.com/labs/isovalent-cilium-enterprise-network-policies/)
+* Cilium LoadBalancer IPAM and BGP Service Advertisement - [Labs + Badge](https://isovalent.com/labs/lb-ipam-bgp-service/)
 
 ###### **Arrikto**
 * Introduction to Kubeflow - [Training + Certification](https://www.arrikto.com/kubeflow-pipelines-fundamentals-training-certification-registration/)
