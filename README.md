@@ -5,6 +5,14 @@
 *Whether you are studying for a Kubernetes Certification or powering your career as DevOps Engineer / SRE, this set of trainings could prepare you well to face many Cloud Native applications challenges*
 
 ## Free Trainings with Certifications
+###### **AWS**
+* Architecting - [Course + Badge](https://bit.ly/architect23)
+* Serverless - [Course + Badge](https://aws.amazon.com/training/learn-about/serverless/)
+* Object Storage - [Course + Badge](https://explore.skillbuilder.aws/learn/public/learning_plan/view/51/storage-learning-plan-object-storage)
+* Block Storage - [Course + Badge](https://explore.skillbuilder.aws/learn/public/learning_plan/view/93/storage-learning-plan-block-storage)
+* File Storage - [Course + Badge](https://explore.skillbuilder.aws/learn/public/learning_plan/view/95/storage-learning-plan-file-storage)
+* Storage Data Migration - [Course + Badge](https://explore.skillbuilder.aws/learn/public/learning_plan/view/94/storage-learning-plan-data-migration)
+* Data Protection & Disaster Recovery - [Course + Badge](https://explore.skillbuilder.aws/learn/public/learning_plan/view/54/storage-learning-plan-data-protection-and-disaster-recovery)
 
 ###### **Isovalent**
 * Getting Started with Cilium - [Labs + Badge](https://isovalent.com/labs/getting-started-with-cilium/)
