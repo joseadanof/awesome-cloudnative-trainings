@@ -7,6 +7,10 @@
 50, yes, more than ***50*** certificates or badges you can get from this awesome repository of trainings.
 
 ## Free Trainings with Certifications
+
+###### **Akuity**
+* Introduction to Continuous Delivery and GitOps using Argo CD - [Course + Badge](https://academy.akuity.io/courses/gitops-argocd-intro)
+
 ###### **AWS**
 * Architecting - [Course + Badge](https://bit.ly/architect23)
 * Serverless - [Course + Badge](https://aws.amazon.com/training/learn-about/serverless/)
@@ -141,6 +145,7 @@
 * Master Traefik with K3S - [Training](https://academy.traefik.io/courses/master-traefik-proxy-with-k3s)
 
 ###### **The Linux Foundation**
+* Introduction to Cilium - [Training]https://www.edx.org/es/course/introduction-to-cilium
 * Introduction to Istio - [Training](https://www.edx.org/course/introduction-to-istio)
 * Introduction to GitOps - [Training](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/?utm_source=lftraining&utm_medium=pressrelease&utm_campaign=lfs169)
 * Introduction to Service Mesh with Linkerd - [Training](https://training.linuxfoundation.org/training/introduction-to-service-mesh-with-linkerd-lfs143/)
