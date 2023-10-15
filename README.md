@@ -1,4 +1,5 @@
 # Awesome Cloud Native Trainings
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 *It just started as a [post](https://joseadanof.medium.com/cloud-native-free-training-and-certifications-4c86851659f8) in Medium where I was collecting all the free trainings with and without certificates that were released from different companies supporting Cloud Native Computing Foundation Projects and Kubernetes related OSS.*
 
@@ -188,3 +189,6 @@
 
 ## Contributions
 Open to suggestions, enhancements and collaborations, open a PR and make your contributions.
+
+## License
+[Awesome Cloud Native Trainings](https://github.com/joseadanof/awesome-cloudnative-trainings/) by [@joseadanof](https://github.com/joseadanof) is licensed under CC BY 4.0
