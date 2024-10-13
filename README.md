@@ -5,9 +5,13 @@
 
 *Whether you are studying for a Kubernetes Certification or powering your career as DevOps Engineer, Cloud Engineer, Platform Engineer, Cloud Developer, Developer Advocate, or SRE,  this set of trainings could prepare you well to face many Cloud Native transformation challenges*
 
-50, yes, more than ***50*** certificates or badges you can get from this awesome repository of trainings.
+You can get 50, yes, more than ***50*** certificates or badges from this awesome repository of training.
 
 ## Free Trainings with Certifications
+
+###### **Chainguard**
+* Painless Vulnerability Management - [Course + Badge](https://courses.chainguard.dev/vulnerability-management-certification)
+* Securing the AI/ML Supply Chain - [Course + Badge](https://courses.chainguard.dev/securing-ai)
 
 ###### **Akuity**
 * Introduction to Continuous Delivery and GitOps using Argo CD - [Course + Badge](https://academy.akuity.io/courses/gitops-argocd-intro)
@@ -81,7 +85,7 @@
 * GitOps Fundamentals - [Course + Certification](https://codefresh.learnworlds.com/)
 
 ###### **Kasten Learning**
-* Kubernetes Badges (Apprentice, Defender , Helmsman, Contender, Protector, Surveyor, Architect, Rookie and Explorer) - [Labs + Badges](https://learning.kasten.io/)
+* Kubernetes Badges (Apprentice, Defender, Helmsman, Contender, Protector, Surveyor, Architect, Rookie and Explorer) - [Labs + Badges](https://learning.kasten.io/)
 
 ###### **solo.io Academy**
 
@@ -116,7 +120,7 @@
 * Chaos Engineering Practitioner Certificate Program - [Training](https://www.gremlin.com/webinars/gremlin-certificate-prep-session) | [Certification](https://gremlin.coassemble.com/unlock/7Jan8Su)
 
 ###### **Gitlab Level Up**
-* Gitlab Level Up Training Platform - [Free Trainings and Certifications](https://levelup.gitlab.com/catalog)
+* Gitlab Level Up Training Platform - [Free Training and Certifications](https://levelup.gitlab.com/catalog)
 
 ###### **MongoDB**
 * MongoDB Basics - [Training + Certification](https://university.mongodb.com/courses/M001/about)
@@ -131,15 +135,15 @@
 * Kubernetes Labs - [Online Training](https://control-plane.io/training)
 
 ###### **RedHat Developer**
-* Cloud Native Tutorials - [Trainings](https://redhat-scholars.github.io/cloudnative-tutorials/index.html)
+* Cloud Native Tutorials - [Training](https://redhat-scholars.github.io/cloudnative-tutorials/index.html)
 ###### **FreeCodeCamp**
 * Kubernetes Cloud Native Associate Certification Course by ExamPro - [Video Course](https://youtu.be/AplluksKvzI)
 
 ###### **Grafana University**
-* Observability Trainings - [Trainings](https://grafanalabs.learnondemand.net/Organization/CourseCatalog/5173?run=1#%7B%22pageIndex%22%3A0%2C%22pageSize%22%3A20%2C%22filter%22%3A%22%22%2C%22subscriptionProfileIds%22%3A%5B%5D%2C%22tagInputIds%22%3A%5B%5D%2C%22tagsJson%22%3Anull%2C%22bookmarks%22%3Anull%7D)
+* Observability Trainings - [Training](https://grafanalabs.learnondemand.net/Organization/CourseCatalog/5173?run=1#%7B%22pageIndex%22%3A0%2C%22pageSize%22%3A20%2C%22filter%22%3A%22%22%2C%22subscriptionProfileIds%22%3A%5B%5D%2C%22tagInputIds%22%3A%5B%5D%2C%22tagsJson%22%3Anull%2C%22bookmarks%22%3Anull%7D)
 
 ###### **Styra Academy**
-* Microservices Autxhorization with Styra - [Training](https://academy.styra.com/courses/microservice)
+* Microservices Authorization with Styra - [Training](https://academy.styra.com/courses/microservice)
 * OPA Policy Authoring - [Training](https://academy.styra.com/courses/opa-rego)
 
 ###### **Traefik Academy**
@@ -182,7 +186,7 @@
 * Apache Cassandra Operations in K8S -  [Training](https://www.datastax.com/learn/apache-cassandra-operations-in-kubernetes)
 
 ###### **VMWare Kube Academy**
-* Kubernetes related courses - [VMWare Kube Academy](https://kube.academy/courses)
+* Kubernetes-related courses - [VMWare Kube Academy](https://kube.academy/courses)
 
 ###### **Aqua Cloud Native Academy**
 * Shift Left DevOps - [Training](https://www.aquasec.com/cloud-native-academy/devsecops/shift-left-devops/)
