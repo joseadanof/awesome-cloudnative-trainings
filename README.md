@@ -7,6 +7,10 @@
 
 You can get 50, yes, more than ***50*** certificates or badges from this awesome repository of training.
 
+And, after 3 years we got more than 1.7k stars
+
+[![Star History Chart](https://api.star-history.com/svg?repos=joseadanof/awesome-cloudnative-trainings&type=Date)](https://star-history.com/#joseadanof/awesome-cloudnative-trainings&Date)
+
 ## Free Trainings with Certifications
 
 ###### **Chainguard**
